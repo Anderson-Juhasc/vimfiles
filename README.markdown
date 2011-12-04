@@ -9,7 +9,7 @@ Entrar no diretório `~/.vim`, e iniciar os submódulos:
     git submodule init
     git submodule update
 
-Voltar para `~/` e criar um arquivo `.vimrc` e adicionar o seguinte texto:
+Voltar para `~/` e criar um arquivo `.vimrc` e adicione o seguinte texto:
 
 	 source ~/.vim/vimrc
 	
